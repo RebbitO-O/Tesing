@@ -1,0 +1,111 @@
+html {
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+background-color: #343434;
+}
+
+header h2{
+    width: 100%;
+    font-size: 20px;
+}
+
+header {
+    background-color: #b73232;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 25px;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 15px;
+
+}
+
+li {
+    margin: 10px;
+    border: 10px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+th td {
+    text-align: center;
+}
+
+th {
+    color: white;
+}
+
+#si {
+    display: grid;
+    place-items: center;
+    margin: 20px;
+}
+
+#si img {
+    width: 200px;
+    height: auto;
+}
+
+#no {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+#no img {
+    width: 120px;
+    height: auto;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#talve img {
+    width: 250px;
+    height: auto;
+    display: inline-block;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#talve {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+}
