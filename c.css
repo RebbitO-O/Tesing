@@ -37,7 +37,16 @@ li {
     border: 10px;
 }
 
+.os {
+    padding: 30px;
+}
+
 h1 {
+    color: white;
+    text-align: center;
+}
+
+h5 {
     color: white;
     text-align: center;
 }
